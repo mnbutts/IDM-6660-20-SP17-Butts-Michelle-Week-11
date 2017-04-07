@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,oCAAyB;ECD3B,IAAK;IAEC,gBAAgB,ECGb,IAAI;AFCX,oCAAwB;ECN1B,IAAK;IAKC,gBAAgB,ECDd,IAAI;AFOV,oCAAyB;ECX3B,IAAK;IAQC,gBAAgB,ECPd,OAAO",
+"sources": ["../../DEV/sass/_queries.scss","../../DEV/sass/_colors.scss","../../DEV/sass/_vars.scss"],
+"names": [],
+"file": "css.css"
+}
